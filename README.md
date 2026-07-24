@@ -38,3 +38,15 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 - Java ☕
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
