@@ -49,6 +49,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
+| [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
 | ------- |
@@ -65,4 +66,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0225-implement-stack-using-queues) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
