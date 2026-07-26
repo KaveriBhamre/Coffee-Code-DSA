@@ -46,6 +46,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +100,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
