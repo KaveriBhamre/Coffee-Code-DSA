@@ -45,10 +45,12 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
@@ -69,6 +71,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
