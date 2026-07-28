@@ -49,11 +49,13 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
