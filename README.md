@@ -52,6 +52,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2643-row-with-maximum-ones) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1672-richest-customer-wealth) |
+| [2643-row-with-maximum-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2643-row-with-maximum-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
