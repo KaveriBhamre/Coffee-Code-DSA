@@ -110,6 +110,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3136-valid-word](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3136-valid-word) |
 ## String Matching
 |  |
 | ------- |
