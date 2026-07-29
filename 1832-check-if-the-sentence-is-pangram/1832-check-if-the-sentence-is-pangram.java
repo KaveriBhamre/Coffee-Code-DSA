@@ -2,7 +2,8 @@ class Solution {
     public boolean checkIfPangram(String sentence) {
         //sentence contains every letter of english alphabet atleast once
         //use set
-
+        if(sentence.length() < 26) return false;
+        
         Set<Character> set = new HashSet<>();
         for(int i = 0; i < sentence.length(); i++) {
             set.add(sentence.charAt(i));
