@@ -95,6 +95,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
@@ -106,6 +107,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
