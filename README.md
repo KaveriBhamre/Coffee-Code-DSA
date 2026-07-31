@@ -59,6 +59,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
@@ -116,6 +117,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3136-valid-word](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3136-valid-word) |
 ## String Matching
 |  |
@@ -135,4 +137,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
