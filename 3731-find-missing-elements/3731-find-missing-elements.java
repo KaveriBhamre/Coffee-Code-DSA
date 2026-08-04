@@ -14,13 +14,11 @@ class Solution {
             set.add(n);
         }
 
-        for(int i = min; i <= max; i++) {
+        for(int i = min+1; i < max; i++) {
             if(!set.contains(i)){
                 list.add(i);
             }
         }
-
-        Collections.sort(list);
 
         return list;
     }
