@@ -5,11 +5,12 @@ class Solution {
 
         List<Integer> list = new ArrayList<>();
         Set<Integer> set = new HashSet<>();
-
-        int max = Arrays.stream(nums).max().getAsInt();
-        int min = Arrays.stream(nums).min().getAsInt();
+        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
 
         for(int n : nums) {
+            max = Math.max(max, n);
+            min = Math.min(min, n);
             set.add(n);
         }
 
