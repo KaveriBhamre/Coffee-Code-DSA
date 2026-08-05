@@ -125,6 +125,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
 ## Recursion
 |  |
@@ -136,6 +137,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0290-word-pattern) |
