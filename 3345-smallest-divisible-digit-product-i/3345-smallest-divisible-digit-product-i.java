@@ -1,5 +1,6 @@
 class Solution {
     public int productOfDigits(int num){
+        if(num == 0) return 0;
         int product = 1;
         while(num > 0){
             int digit = num % 10;
