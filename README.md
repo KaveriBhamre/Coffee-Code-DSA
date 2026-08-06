@@ -70,6 +70,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
@@ -184,4 +185,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
