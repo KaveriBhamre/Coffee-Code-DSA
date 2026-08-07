@@ -49,6 +49,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -130,6 +131,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
 ## Recursion
 |  |
@@ -202,4 +204,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
