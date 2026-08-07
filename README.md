@@ -46,6 +46,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0001-two-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
@@ -179,6 +180,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -196,4 +198,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
