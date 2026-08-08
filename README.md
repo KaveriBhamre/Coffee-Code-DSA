@@ -123,6 +123,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
@@ -158,6 +159,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -237,4 +239,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0238-product-of-array-except-self](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2485-find-the-pivot-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
