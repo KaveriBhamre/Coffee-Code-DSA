@@ -106,6 +106,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 ## Sorting
 |  |
@@ -126,6 +127,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -163,6 +165,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0171-excel-sheet-column-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -195,6 +198,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
