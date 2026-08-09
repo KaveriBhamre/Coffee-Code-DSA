@@ -73,6 +73,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0189-rotate-array) |
@@ -163,6 +164,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0168-excel-sheet-column-title) |
@@ -192,6 +194,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 ## Greedy
@@ -225,6 +228,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Divide and Conquer
 |  |
