@@ -47,6 +47,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0001-two-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +149,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0151-reverse-words-in-a-string) |
