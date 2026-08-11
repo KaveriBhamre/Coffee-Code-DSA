@@ -10,8 +10,6 @@ class Solution {
                 if(map.get(c) >= left){
                     left = map.get(c) + 1;
                     map.replace(c, right);
-                }else{
-                    map.replace(c, right);
                 }
             }
             int len = right - left + 1;
