@@ -68,6 +68,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1672-richest-customer-wealth](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2643-row-with-maximum-ones) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -119,6 +120,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3731-find-missing-elements) |
@@ -134,6 +136,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3731-find-missing-elements) |
