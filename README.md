@@ -46,6 +46,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0001-two-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
@@ -116,6 +117,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -151,6 +153,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0031-next-permutation) |
