@@ -141,6 +141,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -187,6 +188,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3136-valid-word) |
 ## String Matching
 |  |
@@ -262,4 +264,5 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
