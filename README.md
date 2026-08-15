@@ -97,6 +97,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0182-duplicate-emails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Stack
