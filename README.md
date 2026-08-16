@@ -49,6 +49,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0015-3sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +138,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0001-two-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
