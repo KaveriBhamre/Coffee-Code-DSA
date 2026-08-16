@@ -57,6 +57,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0015-3sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +143,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0041-first-missing-positive](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0290-word-pattern) |
