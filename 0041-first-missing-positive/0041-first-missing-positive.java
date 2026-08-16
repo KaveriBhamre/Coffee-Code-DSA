@@ -5,9 +5,7 @@ class Solution {
         for(int ele : nums){
             set.add(ele);
         }
-        for(int ele : nums){
-            if(set.contains(x)) x++;
-        }
+        while(set.contains(x)) x++;
         return x;
     }
 }
