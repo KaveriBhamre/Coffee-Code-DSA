@@ -62,6 +62,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0238-product-of-array-except-self](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0704-binary-search) |
@@ -131,6 +132,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0217-contains-duplicate](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -182,6 +184,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0189-rotate-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
 ## Recursion
 |  |
 | ------- |
@@ -231,6 +234,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -291,4 +295,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
