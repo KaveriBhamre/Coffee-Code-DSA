@@ -66,6 +66,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -230,6 +231,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
