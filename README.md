@@ -64,6 +64,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0704-binary-search) |
@@ -159,6 +160,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2404-most-frequent-even-element) |
@@ -292,6 +294,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2485-find-the-pivot-integer) |
 ## Sliding Window
