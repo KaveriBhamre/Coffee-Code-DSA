@@ -1,37 +1,31 @@
 class Solution {
     public int largestInteger(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < nums.length; i++) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i = 0; i < nums.length; i++) {
             map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
         }
-
-        if (k == 1) {
+        if(k == 1) {
+            //return max whose freq is 1
             int ans = -1;
-
-            for (int i = 0; i < nums.length; i++) {
-                if (map.get(nums[i]) == 1 && nums[i] > ans) {
+            for(int i = 0; i < nums.length; i++) {
+                if(map.get(nums[i]) == 1 && nums[i] > ans) {
                     ans = nums[i];
                 }
             }
-
             return ans;
         }
-
-        else if (k == nums.length) {
-            int max = Integer.MIN_VALUE;
-
-            for (int i = 0; i < nums.length; i++) {
-                max = Math.max(nums[i], max);
+        else if(k == nums.length) {
+            //return max
+            int ans = -1;
+            for(int i = 0; i < nums.length; i++) {
+                ans = Math.max(ans, nums[i]);
             }
-
-            return max;
+            return ans;
         }
-
         else {
             int first = nums[0];
             int last = nums[nums.length - 1];
-
+        
             boolean first_count = map.get(first) == 1;
             boolean second_count = map.get(last) == 1;
 
@@ -44,7 +38,8 @@ class Solution {
             if (second_count)
                 return last;
 
-            return -1;
         }
+        return -1;
+
     }
 }
