@@ -87,6 +87,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0168-excel-sheet-column-title) |
