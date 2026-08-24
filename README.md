@@ -45,6 +45,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -184,6 +185,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -249,6 +251,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
