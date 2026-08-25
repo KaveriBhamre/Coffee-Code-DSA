@@ -59,6 +59,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0015-3sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
@@ -247,6 +249,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -298,6 +301,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -337,4 +341,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
