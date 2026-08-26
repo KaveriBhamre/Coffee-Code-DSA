@@ -63,6 +63,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0217-contains-duplicate](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
@@ -137,6 +138,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0641-design-circular-deque) |
@@ -254,6 +256,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -325,6 +328,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0239-sliding-window-maximum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -355,4 +359,12 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0976-largest-perimeter-triangle) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
