@@ -95,6 +95,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
