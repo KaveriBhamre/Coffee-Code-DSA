@@ -72,6 +72,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
@@ -136,6 +137,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0232-implement-queue-using-stacks](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -181,6 +183,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0290-word-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2404-most-frequent-even-element) |
@@ -202,6 +205,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0206-reverse-linked-list](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -376,4 +380,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0239-sliding-window-maximum) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
