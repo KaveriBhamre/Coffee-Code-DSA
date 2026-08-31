@@ -131,6 +131,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -363,6 +364,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -374,6 +376,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -410,5 +413,6 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
