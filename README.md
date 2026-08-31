@@ -67,6 +67,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
