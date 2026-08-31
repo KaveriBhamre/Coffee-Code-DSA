@@ -19,16 +19,13 @@ class Solution {
         if(curr == null) return curr;
 
         while(curr != null) {
-            if(val <= curr.val) {
-                if(curr.val == val) {
+            if(curr.val == val) {
                     return curr;
-                }
+            }
+            else if(val <= curr.val) {
                 curr = curr.left;
             }
             else {
-                if(curr.val == val) {
-                    return curr;
-                }
                 curr = curr.right;
             }
         }
