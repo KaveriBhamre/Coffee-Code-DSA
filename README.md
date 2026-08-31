@@ -363,6 +363,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -372,6 +373,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Quickselect
 |  |
@@ -400,5 +402,6 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
