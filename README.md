@@ -81,6 +81,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0896-monotonic-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1306-jump-game-iii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1306-jump-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -377,6 +378,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [1306-jump-game-iii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -421,4 +423,5 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0094-binary-tree-inorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1306-jump-game-iii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
