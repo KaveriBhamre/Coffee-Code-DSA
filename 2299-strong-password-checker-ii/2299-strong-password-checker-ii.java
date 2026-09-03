@@ -1,33 +1,34 @@
 class Solution {
     public boolean strongPasswordCheckerII(String password) {
-        if(password == null || password.length() < 8 ) return false;
+        int lower = 0;
+        int upper = 0;
+        int digit = 0;
+        int special = 0;
 
-        Set<Character> set = new HashSet<>(Arrays.asList(
-            '!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '-', '+'
-        ));
-
-        boolean lc = false;
-        boolean uc = false;
-        boolean digit = false;
-        boolean sp = false;
-        boolean ad = false;
-
-        for (int i = 0; i < password.length() - 1; i++) {
-            if (password.charAt(i) == password.charAt(i + 1)) {
-                return false; 
+        //adjacent check
+        for(int i = 0; i < password.length()-1; i++){
+            if(password.charAt(i) == (password.charAt(i+1))){
+                return false;
             }
         }
 
-        for(int i = 0; i < password.length(); i++) {
-            char ch = password.charAt(i);
-            if(Character.isLowerCase(ch)) lc= true;
-            else if(Character.isUpperCase(ch)) uc = true;
-            else if(Character.isDigit(ch)) digit = true;
-            else if(set.contains(ch)) sp = true;
+        //isLowerUpperDigitSpeacial check
+        for(int i=0;i<password.length();i++){
+            if(Character.isLowerCase(password.charAt(i))){
+                lower++;
+            }else if(Character.isUpperCase(password.charAt(i))){
+                upper++;
+            }else if(Character.isDigit(password.charAt(i))){
+                digit++;
+            }else{
+                special++;
+            }
         }
 
-        if(lc && uc && digit && sp) return true;
-
+        if(password.length()>=8 && lower>=1 && upper>=1 && digit>=1 &&special>=1){
+            return true;
+        }
+        
         return false;
 
     }
