@@ -386,6 +386,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -404,6 +405,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Quickselect
 |  |
 | ------- |
