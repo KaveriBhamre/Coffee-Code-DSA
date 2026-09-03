@@ -2,27 +2,31 @@ class Solution {
     public boolean isValid(String word) {
         if(word.length() < 3) return false;
 
-       int vowelCount = 0;
-       int conCount = 0;
-
-        for(int i = 0; i < word.length(); i++){
-            char c = Character.toLowerCase(word.charAt(i));
-            if(!(Character.isLetterOrDigit(c))) {
+        for(char c : word.toCharArray()) {
+            if(Character.isLetterOrDigit(c) != true) {
                 return false;
             }
-            else if(Character.isLetter(c)){
-                if(c == 'a' || c == 'e' ||c == 'i' ||c == 'o' ||c == 'u' ){
-                    vowelCount++;
-                }else{
-                    conCount++;
+        }
+
+        int vowel = 0;
+        int conso = 0;
+
+        for(int i = 0; i < word.length(); i++) {
+            char c = word.charAt(i);
+            if(Character.isLetter(c)) {
+                if(c == 'a' || c == 'e' ||c == 'i' ||c == 'o' ||c == 'u' ||
+                    c == 'A' || c == 'E' ||c == 'I' ||c == 'O' ||c == 'U' ) {
+                    vowel++;
+                }
+                else {
+                    conso++;
                 }
             }
         }
 
-        if(vowelCount > 0 && conCount > 0){
+        if(vowel > 0 && conso > 0) {
             return true;
         }
-
         return false;
     }
 }
