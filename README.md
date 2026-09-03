@@ -111,6 +111,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0171-excel-sheet-column-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
+| [0504-base-7](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -257,6 +258,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0290-word-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0520-detect-capital) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
