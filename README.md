@@ -381,6 +381,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -400,6 +401,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -435,12 +437,14 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
