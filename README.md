@@ -56,6 +56,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
@@ -299,6 +300,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0011-container-with-most-water) |
+| [0134-gas-station](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0976-largest-perimeter-triangle) |
