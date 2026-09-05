@@ -14,54 +14,25 @@
  * }
  */
 class Solution {
-    Map<TreeNode, TreeNode> map = new HashMap<>();
-
-    private void buildParent(TreeNode node, TreeNode p) {
-        if(node == null) return;
-        map.put(node, p);
-        buildParent(node.left, node);
-        buildParent(node.right, node);
-    }
+    TreeNode xParent = null, yParent = null;
+    int xDepth = -1, yDepth = -1;
 
     public boolean isCousins(TreeNode root, int x, int y) {
-        buildParent(root, null);
+        dfs(root, null, 0, x, y);
+        return xDepth == yDepth && xParent != yParent;
+    }
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        int level = 0;
-        TreeNode parentX = null;
-        TreeNode parentY = null;
-
-        int levelX = -1;
-        int levelY = -1;
-
-        while(!q.isEmpty()) {
-
-            int size = q.size();
-
-            for(int i = 0; i < size; i++) {
-
-                TreeNode curr = q.poll();
-                if(curr.val == x) {
-                    parentX = map.get(curr);
-                    levelX = level;
-                }
-                if(curr.val == y) {
-                    parentY = map.get(curr);
-                    levelY = level;
-                }
-                if(curr.left != null) {
-                    q.offer(curr.left);
-                }
-                if(curr.right != null) {
-                    q.offer(curr.right);
-                }
-            }
-            level++;
+    public void dfs(TreeNode root, TreeNode parent, int depth, int x, int y) {
+        if (root == null) return;
+        if (x == root.val) {
+            xParent = parent;
+            xDepth = depth;
+        } else if (y == root.val) {
+            yParent = parent;
+            yDepth = depth;
         }
-
-        return (levelX == levelY && parentX != parentY);
-
+        dfs(root.left, root, depth+1, x, y);
+        dfs(root.right, root, depth+1, x, y);
 
     }
 }
