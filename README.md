@@ -268,6 +268,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0290-word-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0520-detect-capital) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -282,6 +283,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0459-repeated-substring-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -479,4 +481,12 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0543-diameter-of-binary-tree) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
