@@ -334,6 +334,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
 ## Game Theory
@@ -405,6 +406,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -433,6 +435,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -480,6 +483,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -489,6 +493,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Z Algorithm
 |  |
