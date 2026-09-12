@@ -141,6 +141,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0175-combine-two-tables](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0182-duplicate-emails) |
+| [1517-find-users-with-valid-e-mails](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1890-the-latest-login-in-2020) |
 | [3436-find-valid-emails](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3436-find-valid-emails) |
