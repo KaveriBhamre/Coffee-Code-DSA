@@ -143,6 +143,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0182-duplicate-emails](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0182-duplicate-emails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1890-the-latest-login-in-2020) |
+| [3570-find-books-with-no-available-copies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3570-find-books-with-no-available-copies) |
 ## Stack
 |  |
 | ------- |
