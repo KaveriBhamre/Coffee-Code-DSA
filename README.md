@@ -308,6 +308,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
@@ -363,6 +364,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0004-median-of-two-sorted-arrays](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
