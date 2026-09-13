@@ -411,6 +411,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0098-validate-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0112-path-sum) |
@@ -428,6 +429,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0100-same-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0112-path-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -440,6 +442,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0098-validate-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0112-path-sum) |
