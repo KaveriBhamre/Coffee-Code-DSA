@@ -56,6 +56,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0049-group-anagrams](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0134-gas-station) |
@@ -205,6 +206,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0217-contains-duplicate) |
@@ -303,6 +305,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0073-set-matrix-zeroes) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1672-richest-customer-wealth) |
