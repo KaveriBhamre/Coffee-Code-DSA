@@ -442,6 +442,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -458,6 +459,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -477,6 +479,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -528,6 +531,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
