@@ -103,6 +103,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3731-find-missing-elements) |
@@ -133,6 +134,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3871-count-commas-in-range-ii) |
