@@ -64,6 +64,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -120,6 +121,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0168-excel-sheet-column-title](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
@@ -380,6 +382,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
@@ -555,4 +558,20 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0459-repeated-substring-pattern) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
