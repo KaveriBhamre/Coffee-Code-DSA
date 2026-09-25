@@ -126,6 +126,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0264-ugly-number-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0976-largest-perimeter-triangle) |
