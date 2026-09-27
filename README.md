@@ -58,6 +58,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0066-plus-one](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
@@ -344,6 +345,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
@@ -596,4 +598,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
