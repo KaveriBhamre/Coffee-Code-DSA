@@ -80,6 +80,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0641-design-circular-deque) |
+| [0682-baseball-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0724-find-pivot-index) |
@@ -177,6 +178,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -401,6 +403,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2073-time-needed-to-buy-tickets) |
