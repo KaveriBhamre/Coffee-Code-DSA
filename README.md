@@ -128,6 +128,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0263-ugly-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -178,6 +179,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0145-binary-tree-postorder-traversal](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -266,6 +268,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0641-design-circular-deque) |
 | [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
