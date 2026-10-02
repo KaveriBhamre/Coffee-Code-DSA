@@ -310,6 +310,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0013-roman-to-integer](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0067-add-binary) |
@@ -390,6 +391,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -620,11 +622,13 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
