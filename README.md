@@ -186,6 +186,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0445-add-two-numbers-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -332,6 +333,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0657-robot-return-to-origin](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0856-score-of-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -638,6 +640,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0022-generate-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
