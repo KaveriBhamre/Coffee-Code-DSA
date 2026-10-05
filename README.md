@@ -184,6 +184,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0225-implement-stack-using-queues](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -329,6 +330,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0504-base-7](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0796-rotate-string) |
 | [1041-robot-bounded-in-circle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -376,6 +378,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0011-container-with-most-water](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -399,6 +402,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0264-ugly-number-ii) |
+| [0678-valid-parenthesis-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -633,6 +637,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0020-valid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
