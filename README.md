@@ -91,6 +91,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1232-check-if-it-is-a-straight-line](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1306-jump-game-iii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1306-jump-game-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -358,6 +359,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0073-set-matrix-zeroes) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2643-row-with-maximum-ones) |
@@ -449,6 +451,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
