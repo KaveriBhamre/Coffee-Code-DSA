@@ -189,6 +189,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0682-baseball-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -338,6 +339,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0856-score-of-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1041-robot-bounded-in-circle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1041-robot-bounded-in-circle) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
