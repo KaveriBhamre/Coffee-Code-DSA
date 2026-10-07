@@ -327,6 +327,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0171-excel-sheet-column-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0443-string-compression) |
@@ -514,6 +515,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -641,6 +643,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0022-generate-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
