@@ -191,6 +191,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -343,6 +344,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1021-remove-outermost-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -393,6 +395,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0860-lemonade-change](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -656,6 +659,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0856-score-of-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
