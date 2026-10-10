@@ -92,6 +92,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0976-largest-perimeter-triangle) |
+| [0994-rotting-oranges](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0994-rotting-oranges) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1306-jump-game-iii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1306-jump-game-iii) |
@@ -375,6 +376,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0200-number-of-islands](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -540,6 +542,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1306-jump-game-iii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
