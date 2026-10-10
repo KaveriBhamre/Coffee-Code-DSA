@@ -84,6 +84,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0704-binary-search](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0724-find-pivot-index) |
+| [0752-open-the-lock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0752-open-the-lock) |
 | [0860-lemonade-change](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0896-monotonic-array) |
@@ -255,6 +256,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0560-subarray-sum-equals-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -338,6 +340,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0520-detect-capital](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0752-open-the-lock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -522,6 +525,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0199-binary-tree-right-side-view](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0752-open-the-lock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -665,4 +669,8 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
