@@ -82,6 +82,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0724-find-pivot-index) |
@@ -371,6 +372,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0695-max-area-of-island) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -530,6 +532,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0200-number-of-islands](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -612,6 +615,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -685,5 +689,6 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
