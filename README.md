@@ -106,6 +106,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1672-richest-customer-wealth](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1929-concatenation-of-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -457,6 +458,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0682-baseball-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1929-concatenation-of-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3498-reverse-degree-of-a-string) |
