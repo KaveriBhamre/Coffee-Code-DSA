@@ -110,6 +110,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -444,6 +445,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
