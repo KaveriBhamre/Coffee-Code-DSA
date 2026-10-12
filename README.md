@@ -113,6 +113,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [2404-most-frequent-even-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -271,6 +272,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2404-most-frequent-even-element) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -401,6 +403,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -415,6 +418,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
