@@ -74,6 +74,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0239-sliding-window-maximum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0485-max-consecutive-ones) |
@@ -314,6 +315,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
@@ -405,6 +407,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0136-single-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
@@ -483,6 +486,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0004-median-of-two-sorted-arrays](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
@@ -711,4 +715,12 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0200-number-of-islands](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
