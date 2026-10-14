@@ -112,6 +112,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [2073-time-needed-to-buy-tickets](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2404-most-frequent-even-element) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -368,6 +369,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2299-strong-password-checker-ii) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
