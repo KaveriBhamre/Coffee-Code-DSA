@@ -123,6 +123,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -249,6 +250,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -286,6 +288,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/3731-find-missing-elements) |
