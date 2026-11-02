@@ -79,6 +79,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0414-third-maximum-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0622-design-circular-queue) |
@@ -149,6 +150,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -243,6 +245,7 @@ This repository serves as my DSA journal, showcasing my consistency, coding prac
 | [0268-missing-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KaveriBhamre/Coffee-Code-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
